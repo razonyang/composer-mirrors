@@ -9,10 +9,10 @@ It aims to collect available composer/packagist mirrors all around the world.
 
 ## Contribution
 
-Any feedbacks/PRs are welcome, you can [file an issue](https://github.com/razonyang/composer-mirrors/issues/new) or create a PR for:
+Please feel free to [file an issue](https://github.com/razonyang/composer-mirrors/issues/new) or create a PR for:
 
-- Add new mirror.
-- Remove unavailable mirror.
+- Adding new mirror.
+- Removing unavailable mirror.
 - ...
 
 ## Configuration
